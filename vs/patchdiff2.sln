@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "patchdiff2", "patchdiff2.vcxproj", "{CD825DE7-06F6-482D-82FE-3D20B1B04228}"
 EndProject
 Global
